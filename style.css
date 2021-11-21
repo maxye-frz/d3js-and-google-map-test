@@ -1,0 +1,7 @@
+/* Styles go here */
+body,
+html,
+#map-container {
+  width: 100%;
+  height: 100%;
+}
